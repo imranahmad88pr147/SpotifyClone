@@ -12,7 +12,7 @@ function formatTime(seconds) {
 
 // Fetch songs from GitHub API
 async function getSongs() {
-    const repo = 'your-username/your-repo'; // Replace with your GitHub username and repo name
+    const repo = 'imranahmad88pr147/SpotifyClone'; // Replace with your GitHub username and repo name
     const dir = 'assets/songs';
     const apiUrl = `https://api.github.com/repos/${repo}/contents/${dir}`;
 

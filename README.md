@@ -6,3 +6,5 @@ Note: script.js file in main contains the github api for deployment purpose on n
  1) Download all the files/folders present in main.
  2) Delete the script.js located in project folder.
  3) Cut and Paste the script.js from "original script.js" folder to the project folder.
+
+Website is live at: https://spotifyclone0.netlify.app
